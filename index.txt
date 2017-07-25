@@ -1,1 +1,2 @@
 create index.txt
+new string - master
